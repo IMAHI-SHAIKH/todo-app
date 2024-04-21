@@ -1,2 +1,2 @@
 # todo-app
-my list
+Node project
